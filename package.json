@@ -9,6 +9,7 @@
   "author": "Tilman Schweitzer <tschweitzer@seibert-media.net>",
   "license": "ISC",
   "dependencies": {
+    "js-sha1": "^0.6.0",
     "lodash": "^4.17.20"
   }
 }
